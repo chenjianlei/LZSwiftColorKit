@@ -1,0 +1,6 @@
+framework module Pods_LZSwiftColorKit_Tests {
+  umbrella header "Pods-LZSwiftColorKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module LZSwiftColorKit {
+  umbrella header "LZSwiftColorKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

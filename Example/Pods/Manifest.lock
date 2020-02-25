@@ -1,0 +1,16 @@
+PODS:
+  - LZSwiftColorKit (0.0.1.1)
+
+DEPENDENCIES:
+  - LZSwiftColorKit (from `../`)
+
+EXTERNAL SOURCES:
+  LZSwiftColorKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LZSwiftColorKit: adb5c26efa8983b82aaf168df0da1c4fc0a5dc81
+
+PODFILE CHECKSUM: 7666a7aa02ced8ddd5d86b9b5a7cc40e2673502e
+
+COCOAPODS: 1.8.4
