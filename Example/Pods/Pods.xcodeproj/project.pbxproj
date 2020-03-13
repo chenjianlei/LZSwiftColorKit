@@ -9,26 +9,30 @@
 /* Begin PBXBuildFile section */
 		1C78689E306194E10FA0A92950441F28 /* LZSwiftColorKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4458766E5377312EAC61D3E38C5DAF0D /* LZSwiftColorKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1DC731CCDB689CB175D061C4550A0959 /* Transform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2231E4DD5A350AB70F2FD20E25D25513 /* Transform.swift */; };
-		22922C9D52B62AC25BBF96E649BB2570 /* Pods-LZSwiftColorKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 490BB6A625C34C0AE2A76F0B9520BABF /* Pods-LZSwiftColorKit_Example-dummy.m */; };
+		328B1BC1CCDDA45A1AFB76BF216E8C82 /* LZSwiftDelegate-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FF7DC923117F76A7C50157B2F2767851 /* LZSwiftDelegate-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		404897A8BCCA7EBD3350F1B11BEA5F47 /* Pods-LZSwiftColorKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 99B3FAFB9EB12E3C6DCE173422FB8636 /* Pods-LZSwiftColorKit_Tests-dummy.m */; };
-		458AD1FF2F4D963831AC8C0CEB82A9A6 /* Pods-LZSwiftColorKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A6492F704E045FA9EC97FAAA998D26B1 /* Pods-LZSwiftColorKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		537CAF9B2EF048A334966A522E6BE423 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
 		55B8D810CBFACF34937DBDB368EE8D75 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 312B988EF117AE4DE76A268D970131FE /* UIKit.framework */; };
 		5CA1FD13689033CD1DDFC93C6EBFDD54 /* LZSwiftColorKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 753ADCA49F7133B4304DEAEE0539B005 /* LZSwiftColorKit-dummy.m */; };
 		6271A8F614678CCDA6F15BF33374BA50 /* Manager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB4FF6ACD3683AC724BAF9745116D0B /* Manager.swift */; };
 		74B66830813A0DFBBC21755AAD09B7CB /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6473BFF9C135EB6172526A27A34BDE7 /* Extension.swift */; };
+		7765FC73723CBA0B9524EADB2A930A99 /* LZSwiftDelegate-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E08A8514D37516B540EFFE87020A57F1 /* LZSwiftDelegate-dummy.m */; };
+		8A7CF426CAE78B8568CE30DE95B47BC5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
+		9F278C5DA4965F9442075ED1C15ADEDC /* Pods-LZSwiftColorKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 490BB6A625C34C0AE2A76F0B9520BABF /* Pods-LZSwiftColorKit_Example-dummy.m */; };
 		AAA3FF5D39147CDA3A5AB1E9CF8F497C /* Pods-LZSwiftColorKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = AF1A2D6F3524D2D1A0AB6AC629CDC484 /* Pods-LZSwiftColorKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BF661276C845089E4E40BDA73EE233ED /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
+		C6FCA01C0F313E17416F6C86C551B033 /* LZSwiftDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200275AF1EAEA7D2929063BBD97779D3 /* LZSwiftDelegate.swift */; };
+		E1FDC56FEE7391D669ADF381FA0460E8 /* Pods-LZSwiftColorKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A6492F704E045FA9EC97FAAA998D26B1 /* Pods-LZSwiftColorKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EB1F31BA541C2A7BD04710E51ABBAFAD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
 		EE17D53413866E50ADABCE4FCF36F30A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0A207F44CD7340C7CE2D829BA8DC75C6 /* PBXContainerItemProxy */ = {
+		51E40CB00912F6F6362B28F7294F94C0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B8B5E9E443CDA0858781D8C3F9F3B850;
-			remoteInfo = LZSwiftColorKit;
+			remoteGlobalIDString = 236C0BFCA30B698658BA04490191B89C;
+			remoteInfo = LZSwiftDelegate;
 		};
 		5407B2D12F78E1F6C02DA87C04F8FCF4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -37,19 +41,32 @@
 			remoteGlobalIDString = 342D41C92CD96593D96CDE83CB3587B8;
 			remoteInfo = "Pods-LZSwiftColorKit_Example";
 		};
+		CA082AC5E38D617995917E435D8650E4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B8B5E9E443CDA0858781D8C3F9F3B850;
+			remoteInfo = LZSwiftColorKit;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		0101EA849AAC3B0D98163FD365301196 /* Pods-LZSwiftColorKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LZSwiftColorKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		0BA47323131A3D6D56989B1F8B9575E9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		12F4F21512BA644577DE9AE6F62C0F45 /* LZSwiftDelegate-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LZSwiftDelegate-Info.plist"; sourceTree = "<group>"; };
 		15ED0FFD162AE9DB1B51D03424C9091D /* Pods-LZSwiftColorKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LZSwiftColorKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		1D560203911493AFE311478BD7D670FF /* Pods-LZSwiftColorKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LZSwiftColorKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		200275AF1EAEA7D2929063BBD97779D3 /* LZSwiftDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LZSwiftDelegate.swift; path = LZSwiftDelegate/Classes/LZSwiftDelegate.swift; sourceTree = "<group>"; };
 		2231E4DD5A350AB70F2FD20E25D25513 /* Transform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Transform.swift; path = LZSwiftColorKit/Classes/Transform.swift; sourceTree = "<group>"; };
+		30D3E590C58505B4C50D16D1BCAD3ABE /* LZSwiftDelegate.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LZSwiftDelegate.modulemap; sourceTree = "<group>"; };
 		312B988EF117AE4DE76A268D970131FE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		3643EB2FF18C8758ACE720A0888BDF40 /* Pods-LZSwiftColorKit_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LZSwiftColorKit_Example-Info.plist"; sourceTree = "<group>"; };
 		436BAA54A31999B53B3CC7115C55FE50 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		4458766E5377312EAC61D3E38C5DAF0D /* LZSwiftColorKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LZSwiftColorKit-umbrella.h"; sourceTree = "<group>"; };
 		490BB6A625C34C0AE2A76F0B9520BABF /* Pods-LZSwiftColorKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LZSwiftColorKit_Example-dummy.m"; sourceTree = "<group>"; };
+		5D0280B75E138064F43272B6499B45D6 /* LZSwiftDelegate-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LZSwiftDelegate-prefix.pch"; sourceTree = "<group>"; };
+		5F1151CE6AE6ABE80E07416DE54FF5EB /* LZSwiftDelegate.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LZSwiftDelegate.xcconfig; sourceTree = "<group>"; };
+		61C5A0EFC37F9333973BA52880356342 /* LZSwiftDelegate.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LZSwiftDelegate.framework; path = LZSwiftDelegate.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6409E390239B25EF085B748C664C448E /* Pods-LZSwiftColorKit_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LZSwiftColorKit_Tests-Info.plist"; sourceTree = "<group>"; };
 		6C80F7D5E030869A2C05F20835137E6B /* Pods_LZSwiftColorKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LZSwiftColorKit_Tests.framework; path = "Pods-LZSwiftColorKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DA0AD0E07E85E212F55A0091A2F8D62 /* Pods-LZSwiftColorKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LZSwiftColorKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -71,10 +88,12 @@
 		CF6458ABFAF11274F637169940629AD8 /* LZSwiftColorKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LZSwiftColorKit.framework; path = LZSwiftColorKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D74EEDA834C9CDAE0923BDF1589078EA /* LZSwiftColorKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LZSwiftColorKit.xcconfig; sourceTree = "<group>"; };
 		DD8FFE5F907B47AD3F8D14A7F065658F /* Pods_LZSwiftColorKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LZSwiftColorKit_Example.framework; path = "Pods-LZSwiftColorKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E08A8514D37516B540EFFE87020A57F1 /* LZSwiftDelegate-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LZSwiftDelegate-dummy.m"; sourceTree = "<group>"; };
 		E2BAA30E9417D367207E66D6A96D3B35 /* Pods-LZSwiftColorKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LZSwiftColorKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		F13EDBB9E91E27E5FC67540B80AE865B /* Pods-LZSwiftColorKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LZSwiftColorKit_Example.modulemap"; sourceTree = "<group>"; };
 		F3578F18A22A5B84CE5421929D705DB3 /* Pods-LZSwiftColorKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LZSwiftColorKit_Example-frameworks.sh"; sourceTree = "<group>"; };
 		F3E82F2FEC7280947AA43B4FD9E5F41F /* Pods-LZSwiftColorKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LZSwiftColorKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		FF7DC923117F76A7C50157B2F2767851 /* LZSwiftDelegate-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LZSwiftDelegate-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,27 +114,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EE4DD8F217E0898A572DAB65D7C4C899 /* Frameworks */ = {
+		C8935397F4E44DB08FDB5E8B3D1EB39D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF661276C845089E4E40BDA73EE233ED /* Foundation.framework in Frameworks */,
+				8A7CF426CAE78B8568CE30DE95B47BC5 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E5143EBDA189F14B8FBCC9ACC0AD4020 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				537CAF9B2EF048A334966A522E6BE423 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		04CBBCAF97965F6700651AAF43FBBE33 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				CF6458ABFAF11274F637169940629AD8 /* LZSwiftColorKit.framework */,
-				DD8FFE5F907B47AD3F8D14A7F065658F /* Pods_LZSwiftColorKit_Example.framework */,
-				6C80F7D5E030869A2C05F20835137E6B /* Pods_LZSwiftColorKit_Tests.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		085AF8D5E368868CEF7A07ADEC5CF0BB /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -128,6 +145,25 @@
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/LZSwiftColorKit";
+			sourceTree = "<group>";
+		};
+		0D6D075992DB7E0D7651E07B1D0B066B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CF6458ABFAF11274F637169940629AD8 /* LZSwiftColorKit.framework */,
+				61C5A0EFC37F9333973BA52880356342 /* LZSwiftDelegate.framework */,
+				DD8FFE5F907B47AD3F8D14A7F065658F /* Pods_LZSwiftColorKit_Example.framework */,
+				6C80F7D5E030869A2C05F20835137E6B /* Pods_LZSwiftColorKit_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0DFD222EA0479EBB443BA378481F3AA7 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F0FDCBD568CB6435BF828CDB23DD0468 /* LZSwiftDelegate */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */ = {
@@ -186,13 +222,28 @@
 			path = "Target Support Files/Pods-LZSwiftColorKit_Tests";
 			sourceTree = "<group>";
 		};
+		C60E4137120D177BA0096234897E50D9 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				30D3E590C58505B4C50D16D1BCAD3ABE /* LZSwiftDelegate.modulemap */,
+				5F1151CE6AE6ABE80E07416DE54FF5EB /* LZSwiftDelegate.xcconfig */,
+				E08A8514D37516B540EFFE87020A57F1 /* LZSwiftDelegate-dummy.m */,
+				12F4F21512BA644577DE9AE6F62C0F45 /* LZSwiftDelegate-Info.plist */,
+				5D0280B75E138064F43272B6499B45D6 /* LZSwiftDelegate-prefix.pch */,
+				FF7DC923117F76A7C50157B2F2767851 /* LZSwiftDelegate-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/LZSwiftDelegate";
+			sourceTree = "<group>";
+		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				DB2DFC2A9EBBFE3EAD22E0079CD2E756 /* Development Pods */,
 				1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */,
-				04CBBCAF97965F6700651AAF43FBBE33 /* Products */,
+				0DFD222EA0479EBB443BA378481F3AA7 /* Pods */,
+				0D6D075992DB7E0D7651E07B1D0B066B /* Products */,
 				47BA95D27FB3F53440F4E9758E430C9D /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -231,9 +282,27 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		F0FDCBD568CB6435BF828CDB23DD0468 /* LZSwiftDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				200275AF1EAEA7D2929063BBD97779D3 /* LZSwiftDelegate.swift */,
+				C60E4137120D177BA0096234897E50D9 /* Support Files */,
+			);
+			name = LZSwiftDelegate;
+			path = LZSwiftDelegate;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		09B1CF9CB027ECBC05BC725011CEF6D1 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E1FDC56FEE7391D669ADF381FA0460E8 /* Pods-LZSwiftColorKit_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		2412490E7D459E3AAA2137D4B7C4FFBE /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -242,11 +311,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B01BABE5365E99C9D709D2D53AD14C6A /* Headers */ = {
+		CAEC2B6A4F5FF3C4629A426665DBE98D /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				458AD1FF2F4D963831AC8C0CEB82A9A6 /* Pods-LZSwiftColorKit_Example-umbrella.h in Headers */,
+				328B1BC1CCDDA45A1AFB76BF216E8C82 /* LZSwiftDelegate-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,19 +330,38 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		342D41C92CD96593D96CDE83CB3587B8 /* Pods-LZSwiftColorKit_Example */ = {
+		236C0BFCA30B698658BA04490191B89C /* LZSwiftDelegate */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8B5D5F7EC2C4AC95F112377D74A591D4 /* Build configuration list for PBXNativeTarget "Pods-LZSwiftColorKit_Example" */;
+			buildConfigurationList = 284D8EAED58CE4C0E6D19F83B6B18E25 /* Build configuration list for PBXNativeTarget "LZSwiftDelegate" */;
 			buildPhases = (
-				B01BABE5365E99C9D709D2D53AD14C6A /* Headers */,
-				3C1FF46C2009900B773A7AF82A5C6F8F /* Sources */,
-				EE4DD8F217E0898A572DAB65D7C4C899 /* Frameworks */,
-				C754D9072D7A57A25C9D3C33B3D1D200 /* Resources */,
+				CAEC2B6A4F5FF3C4629A426665DBE98D /* Headers */,
+				69285EF4D6459F74371F6BA6A2689A2C /* Sources */,
+				E5143EBDA189F14B8FBCC9ACC0AD4020 /* Frameworks */,
+				87A08E98BE3B44376706BF34D07C6754 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				1E2516ED798177538FC1FA89B316D5C9 /* PBXTargetDependency */,
+			);
+			name = LZSwiftDelegate;
+			productName = LZSwiftDelegate;
+			productReference = 61C5A0EFC37F9333973BA52880356342 /* LZSwiftDelegate.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		342D41C92CD96593D96CDE83CB3587B8 /* Pods-LZSwiftColorKit_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1C1A046C52B8A3D40243FE90E5643C19 /* Build configuration list for PBXNativeTarget "Pods-LZSwiftColorKit_Example" */;
+			buildPhases = (
+				09B1CF9CB027ECBC05BC725011CEF6D1 /* Headers */,
+				0E54A171DA6B975372FA6995F900C542 /* Sources */,
+				C8935397F4E44DB08FDB5E8B3D1EB39D /* Frameworks */,
+				B022187B4C2A17DEED99AB91E7D3F0B3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A9219A51751FBD6CEDB41D9C92DC0403 /* PBXTargetDependency */,
+				4C38FA6CBF26A68F00FF0FA86A8F0409 /* PBXTargetDependency */,
 			);
 			name = "Pods-LZSwiftColorKit_Example";
 			productName = "Pods-LZSwiftColorKit_Example";
@@ -335,11 +423,12 @@
 				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = 04CBBCAF97965F6700651AAF43FBBE33 /* Products */;
+			productRefGroup = 0D6D075992DB7E0D7651E07B1D0B066B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				B8B5E9E443CDA0858781D8C3F9F3B850 /* LZSwiftColorKit */,
+				236C0BFCA30B698658BA04490191B89C /* LZSwiftDelegate */,
 				342D41C92CD96593D96CDE83CB3587B8 /* Pods-LZSwiftColorKit_Example */,
 				C96273809B9268730F2FD4584AE0D636 /* Pods-LZSwiftColorKit_Tests */,
 			);
@@ -347,14 +436,21 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C5537C39470A5C3C82BC2564C34BFAFF /* Resources */ = {
+		87A08E98BE3B44376706BF34D07C6754 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C754D9072D7A57A25C9D3C33B3D1D200 /* Resources */ = {
+		B022187B4C2A17DEED99AB91E7D3F0B3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C5537C39470A5C3C82BC2564C34BFAFF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -371,19 +467,19 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		0E54A171DA6B975372FA6995F900C542 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F278C5DA4965F9442075ED1C15ADEDC /* Pods-LZSwiftColorKit_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		29561F1D690A4B74D248A13C630068DA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				404897A8BCCA7EBD3350F1B11BEA5F47 /* Pods-LZSwiftColorKit_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3C1FF46C2009900B773A7AF82A5C6F8F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				22922C9D52B62AC25BBF96E649BB2570 /* Pods-LZSwiftColorKit_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -398,20 +494,35 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		69285EF4D6459F74371F6BA6A2689A2C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7765FC73723CBA0B9524EADB2A930A99 /* LZSwiftDelegate-dummy.m in Sources */,
+				C6FCA01C0F313E17416F6C86C551B033 /* LZSwiftDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		1E2516ED798177538FC1FA89B316D5C9 /* PBXTargetDependency */ = {
+		4C38FA6CBF26A68F00FF0FA86A8F0409 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = LZSwiftColorKit;
-			target = B8B5E9E443CDA0858781D8C3F9F3B850 /* LZSwiftColorKit */;
-			targetProxy = 0A207F44CD7340C7CE2D829BA8DC75C6 /* PBXContainerItemProxy */;
+			name = LZSwiftDelegate;
+			target = 236C0BFCA30B698658BA04490191B89C /* LZSwiftDelegate */;
+			targetProxy = 51E40CB00912F6F6362B28F7294F94C0 /* PBXContainerItemProxy */;
 		};
 		813DA599EF96A58E078A6421AE49032E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-LZSwiftColorKit_Example";
 			target = 342D41C92CD96593D96CDE83CB3587B8 /* Pods-LZSwiftColorKit_Example */;
 			targetProxy = 5407B2D12F78E1F6C02DA87C04F8FCF4 /* PBXContainerItemProxy */;
+		};
+		A9219A51751FBD6CEDB41D9C92DC0403 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = LZSwiftColorKit;
+			target = B8B5E9E443CDA0858781D8C3F9F3B850 /* LZSwiftColorKit */;
+			targetProxy = CA082AC5E38D617995917E435D8650E4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -447,6 +558,40 @@
 			};
 			name = Debug;
 		};
+		193C4591D3A9B88ED0FACBBDD73AC20B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 79A0F5EEBC0FB04751DDF2A200BE3FE1 /* Pods-LZSwiftColorKit_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-LZSwiftColorKit_Example/Pods-LZSwiftColorKit_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-LZSwiftColorKit_Example/Pods-LZSwiftColorKit_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		2FCC6CCD44F2B8CE9F861274B8ACC8DA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0101EA849AAC3B0D98163FD365301196 /* Pods-LZSwiftColorKit_Tests.debug.xcconfig */;
@@ -480,9 +625,9 @@
 			};
 			name = Debug;
 		};
-		509F95E40008754729111A7BF3C03E76 /* Release */ = {
+		38F05EC6086FAC79F04E48692002AD30 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 79A0F5EEBC0FB04751DDF2A200BE3FE1 /* Pods-LZSwiftColorKit_Example.release.xcconfig */;
+			baseConfigurationReference = E2BAA30E9417D367207E66D6A96D3B35 /* Pods-LZSwiftColorKit_Example.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -507,6 +652,37 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		3C82164BE3526D2B1AE83E70A9850608 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5F1151CE6AE6ABE80E07416DE54FF5EB /* LZSwiftDelegate.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/LZSwiftDelegate/LZSwiftDelegate-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LZSwiftDelegate/LZSwiftDelegate-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LZSwiftDelegate/LZSwiftDelegate.modulemap";
+				PRODUCT_MODULE_NAME = LZSwiftDelegate;
+				PRODUCT_NAME = LZSwiftDelegate;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -545,39 +721,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
-		};
-		8E0F250EA0EF06222D4234A649557E0C /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E2BAA30E9417D367207E66D6A96D3B35 /* Pods-LZSwiftColorKit_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-LZSwiftColorKit_Example/Pods-LZSwiftColorKit_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-LZSwiftColorKit_Example/Pods-LZSwiftColorKit_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		B0087CB4594321EF41619F3181FE120E /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -703,6 +846,37 @@
 			};
 			name = Debug;
 		};
+		DF770A0A456507B523720D40A8C9B1B9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5F1151CE6AE6ABE80E07416DE54FF5EB /* LZSwiftDelegate.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/LZSwiftDelegate/LZSwiftDelegate-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LZSwiftDelegate/LZSwiftDelegate-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LZSwiftDelegate/LZSwiftDelegate.modulemap";
+				PRODUCT_MODULE_NAME = LZSwiftDelegate;
+				PRODUCT_NAME = LZSwiftDelegate;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		F0CF9AE032AE70E7E21991FA9789E564 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 15ED0FFD162AE9DB1B51D03424C9091D /* Pods-LZSwiftColorKit_Tests.release.xcconfig */;
@@ -749,20 +923,29 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		1C1A046C52B8A3D40243FE90E5643C19 /* Build configuration list for PBXNativeTarget "Pods-LZSwiftColorKit_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				38F05EC6086FAC79F04E48692002AD30 /* Debug */,
+				193C4591D3A9B88ED0FACBBDD73AC20B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		284D8EAED58CE4C0E6D19F83B6B18E25 /* Build configuration list for PBXNativeTarget "LZSwiftDelegate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DF770A0A456507B523720D40A8C9B1B9 /* Debug */,
+				3C82164BE3526D2B1AE83E70A9850608 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B8BCBD0110C2658BB5DAADB9B7D97B92 /* Debug */,
 				B0087CB4594321EF41619F3181FE120E /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		8B5D5F7EC2C4AC95F112377D74A591D4 /* Build configuration list for PBXNativeTarget "Pods-LZSwiftColorKit_Example" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8E0F250EA0EF06222D4234A649557E0C /* Debug */,
-				509F95E40008754729111A7BF3C03E76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

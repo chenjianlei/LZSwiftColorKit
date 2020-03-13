@@ -8,6 +8,7 @@
 
 import UIKit
 import LZSwiftColorKit
+import LZSwiftDelegate
 
 class ViewController: UIViewController {
 
@@ -16,7 +17,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
 //        view.backgroundColor = .color_353331
         //        view.backgroundColor = .color_353331
-        view.backgroundColor = .color_E6E6E6
+//        view.backgroundColor = .color_E6E6E6
     }
 
     override func didReceiveMemoryWarning() {

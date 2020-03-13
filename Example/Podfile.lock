@@ -1,16 +1,23 @@
 PODS:
-  - LZSwiftColorKit (0.0.1.1)
+  - LZSwiftColorKit (0.0.1)
+  - LZSwiftDelegate (0.0.1)
 
 DEPENDENCIES:
   - LZSwiftColorKit (from `../`)
+  - LZSwiftDelegate
+
+SPEC REPOS:
+  trunk:
+    - LZSwiftDelegate
 
 EXTERNAL SOURCES:
   LZSwiftColorKit:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LZSwiftColorKit: adb5c26efa8983b82aaf168df0da1c4fc0a5dc81
+  LZSwiftColorKit: 654c03ce3d9e365be88344821d7a84cdafc040a1
+  LZSwiftDelegate: 431dfb9e85064d72bb36553de27dddd29240f695
 
-PODFILE CHECKSUM: 7666a7aa02ced8ddd5d86b9b5a7cc40e2673502e
+PODFILE CHECKSUM: f64063f8ae2587e2befb9962237ef707912390a5
 
 COCOAPODS: 1.8.4

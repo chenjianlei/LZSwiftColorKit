@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'LZSwiftColorKit_Example' do
   pod 'LZSwiftColorKit', :path => '../'
+  pod 'LZSwiftDelegate'
 
   target 'LZSwiftColorKit_Tests' do
     inherit! :search_paths

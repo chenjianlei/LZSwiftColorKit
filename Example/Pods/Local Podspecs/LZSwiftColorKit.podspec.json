@@ -1,6 +1,6 @@
 {
   "name": "LZSwiftColorKit",
-  "version": "0.0.1.1",
+  "version": "0.0.1",
   "summary": "ColorKit Manger!",
   "description": "Make colors easier to use",
   "homepage": "https://github.com/chenjianlei/LZSwiftColorKit",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/chenjianlei/LZSwiftColorKit.git",
-    "tag": "0.0.1.1"
+    "tag": "0.0.1"
   },
   "swift_versions": [
     "4.0",
@@ -24,7 +24,6 @@
     "ios": "8.0"
   },
   "source_files": "LZSwiftColorKit/Classes/**/*",
-  "public_header_files": "Pod/Classes/**/*.swift",
   "frameworks": "UIKit",
   "swift_version": "5.0"
 }
